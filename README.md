@@ -3,32 +3,32 @@
 1. 05111840000057 - Maisie Chiara Salsabila
 2. 05111840000062 - Geizka Wahyu Fahriza
 
-![testestes](/Praktikum 4/Soal Shift Modul 4.jpg)
+![testestes](/Praktikum 4/Soal Shift Modul 4.png)
 
 ## VLSM (Variable Length Subnet Masking) - CPT
 1. Pembagian subnet:<br>
-  ![testestes](/Praktikum 4/Pembagian Subnet VLSM.jpg)
-  ![testestes](/Praktikum 4/Netmask VLSM.jpg)
+  ![testestes](/Praktikum 4/Pembagian Subnet VLSM.png)
+  ![testestes](/Praktikum 4/Netmask VLSM.png)
 
 2. Tree pembagian IP:<br>
-  ![testestes](/Praktikum 4/IP Tree.jpg)
-  ![testestes](/Praktikum 4/IP Tree VLSM.jpg)
-  ![testestes](/Praktikum 4/vlsm-1.jpg)
-  ![testestes](/Praktikum 4/vlsm-2.jpg)
+  ![testestes](/Praktikum 4/IP Tree.png)
+  ![testestes](/Praktikum 4/IP Tree VLSM.png)
+  ![testestes](/Praktikum 4/vlsm-1.png)
+  ![testestes](/Praktikum 4/vlsm-2.png)
 <br><br><br>
 
 ## CIDR (Classless Inter Domain Routing) - UML
 1. Pembagian subnet:<br>
-  ![testestes](/Praktikum 4/Pembagian Subnet CIDR - 1.jpg)
-  ![testestes](/Praktikum 4/Pembagian Subnet CIDR - 2.jpg)
-  ![testestes](/Praktikum 4/Pembagian Subnet CIDR - 3.jpg)
-  ![testestes](/Praktikum 4/Pembagian Subnet CIDR - 4.jpg)
-  ![testestes](/Praktikum 4/Pembagian Subnet CIDR - 5.jpg)
-  ![testestes](/Praktikum 4/Pembagian Subnet CIDR - 6.jpg)
+  ![testestes](/Praktikum 4/Pembagian Subnet CIDR - 1.png)
+  ![testestes](/Praktikum 4/Pembagian Subnet CIDR - 2.png)
+  ![testestes](/Praktikum 4/Pembagian Subnet CIDR - 3.png)
+  ![testestes](/Praktikum 4/Pembagian Subnet CIDR - 4.png)
+  ![testestes](/Praktikum 4/Pembagian Subnet CIDR - 5.png)
+  ![testestes](/Praktikum 4/Pembagian Subnet CIDR - 6.png)
 
 2. Tree pembagian IP:<br>
-  ![testestes](/Praktikum 4/IP Tree CIDR.jpg)
-  ![testestes](/Praktikum 4/IP Tree CIDR 2.jpg)
+  ![testestes](/Praktikum 4/IP Tree CIDR.png)
+  ![testestes](/Praktikum 4/IP Tree CIDR 2.png)
 
 3. Membuat file ```topologi.sh```
   ```
