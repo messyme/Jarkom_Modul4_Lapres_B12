@@ -7,28 +7,28 @@
 
 ## VLSM (Variable Length Subnet Masking) - CPT
 1. Pembagian subnet:<br>
-  ![testestes](/Praktikum 4/Pembagian Subnet VLSM.png)
-  ![testestes](/Praktikum 4/Netmask VLSM.png)
+  ![testestes](https://github.com/messyme/Jarkom_Modul4_Lapres_B12/blob/main/Praktikum%204/Pembagian%20Subnet%20VLSM.png)
+  ![testestes](https://github.com/messyme/Jarkom_Modul4_Lapres_B12/blob/main/Praktikum%204/Netmask%20VLSM.jpg)
 
 2. Tree pembagian IP:<br>
-  ![testestes](/Praktikum 4/IP Tree.png)
-  ![testestes](/Praktikum 4/IP Tree VLSM.png)
-  ![testestes](/Praktikum 4/vlsm-1.png)
-  ![testestes](/Praktikum 4/vlsm-2.png)
+  ![testestes](https://github.com/messyme/Jarkom_Modul4_Lapres_B12/blob/main/Praktikum%204/IP%20Tree.jpg)
+  ![testestes](https://github.com/messyme/Jarkom_Modul4_Lapres_B12/blob/main/Praktikum%204/IP%20Tree%20VLSM.jpg)
+  ![testestes](https://github.com/messyme/Jarkom_Modul4_Lapres_B12/blob/main/Praktikum%204/vlsm-1.jpg)
+  ![testestes](https://github.com/messyme/Jarkom_Modul4_Lapres_B12/blob/main/Praktikum%204/vlsm-2.jpg)
 <br><br><br>
 
 ## CIDR (Classless Inter Domain Routing) - UML
 1. Pembagian subnet:<br>
-  ![testestes](/Praktikum 4/Pembagian Subnet CIDR - 1.png)
-  ![testestes](/Praktikum 4/Pembagian Subnet CIDR - 2.png)
-  ![testestes](/Praktikum 4/Pembagian Subnet CIDR - 3.png)
-  ![testestes](/Praktikum 4/Pembagian Subnet CIDR - 4.png)
-  ![testestes](/Praktikum 4/Pembagian Subnet CIDR - 5.png)
-  ![testestes](/Praktikum 4/Pembagian Subnet CIDR - 6.png)
+  ![testestes](https://github.com/messyme/Jarkom_Modul4_Lapres_B12/blob/main/Praktikum%204/Pembagian%20Subnet%20CIDR%20-%201.png)
+  ![testestes](https://github.com/messyme/Jarkom_Modul4_Lapres_B12/blob/main/Praktikum%204/Pembagian%20Subnet%20CIDR%20-%202.png)
+  ![testestes](https://github.com/messyme/Jarkom_Modul4_Lapres_B12/blob/main/Praktikum%204/Pembagian%20Subnet%20CIDR%20-%203.png)
+  ![testestes](https://github.com/messyme/Jarkom_Modul4_Lapres_B12/blob/main/Praktikum%204/Pembagian%20Subnet%20CIDR%20-%204.png)
+  ![testestes](https://github.com/messyme/Jarkom_Modul4_Lapres_B12/blob/main/Praktikum%204/Pembagian%20Subnet%20CIDR%20-%205.png)
+  ![testestes](https://github.com/messyme/Jarkom_Modul4_Lapres_B12/blob/main/Praktikum%204/Pembagian%20Subnet%20CIDR%20-%206.png)
 
 2. Tree pembagian IP:<br>
-  ![testestes](/Praktikum 4/IP Tree CIDR.png)
-  ![testestes](/Praktikum 4/IP Tree CIDR 2.png)
+  ![testestes](https://github.com/messyme/Jarkom_Modul4_Lapres_B12/blob/main/Praktikum%204/IP%20Tree%20CIDR.png)
+  ![testestes](https://github.com/messyme/Jarkom_Modul4_Lapres_B12/blob/main/Praktikum%204/IP%20Tree%20CIDR%202.png)
 
 3. Membuat file ```topologi.sh```
   ```
