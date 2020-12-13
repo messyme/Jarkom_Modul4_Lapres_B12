@@ -3,7 +3,7 @@
 1. 05111840000057 - Maisie Chiara Salsabila
 2. 05111840000062 - Geizka Wahyu Fahriza
 
-![testestes](/Praktikum 4/Soal Shift Modul 4.png)
+![testestes](/img/Soal Shift Modul 4.png)
 
 ## VLSM (Variable Length Subnet Masking) - CPT
 1. Pembagian subnet:<br>
