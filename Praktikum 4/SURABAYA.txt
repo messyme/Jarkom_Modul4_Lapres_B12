@@ -23,3 +23,6 @@ auto eth4
 iface eth4 inet static
 address 192.168.64.1
 netmask 255.255.255.252
+
+route add -net 192.168.128.0 netmask 255.255.192.0 gw 192.168.64.2
+route add -net 192.168.0.0 netmask 255.255.128.0 gw 192.168.160.2

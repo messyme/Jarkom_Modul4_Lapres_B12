@@ -1,7 +1,8 @@
 auto eth0
 iface eth0 inet static
-address 10.168.160.2
+address 192.168.160.2
 netmask 255.255.255.252
+gateway 192.168.160.1
 
 auto eth1
 iface eth1 inet static
@@ -12,3 +13,5 @@ auto eth2
 iface eth2 inet static
 address 192.168.16.1
 netmask 255.255.255.252
+
+route add -net 192.168.0.0 netmask 255.255.224.0 gw 10.168.16.2
